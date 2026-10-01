@@ -68,17 +68,13 @@ The project uses an abstract `Performer` class as the base class for different p
 
 
 
+Performer
 
+└── SoloArtist
 
-&#x20;               Performer
+└── Band
 
-&#x20;               /   |   \\
-
-&#x20;              /    |    \\
-
-&#x20;      SoloArtist   Band   DJ
-
-
+└── DJ
 
 
 
