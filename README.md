@@ -1,4 +1,4 @@
-\# Music Band \& Concert Manager
+**Music Band \& Concert Manager**
 
 
 
@@ -6,19 +6,19 @@ A console-based Java application for managing music performers, concerts, ticket
 
 
 
-\## Overview
+**Overview**
 
 
 
-The \*\*Music Band \& Concert Manager\*\* provides a menu-driven system for event organizers to manage different types of performers, schedule concerts, handle ticket bookings, perform sound checks, search and update records, and generate revenue and statistical reports.
+The **Music Band \& Concert Manager** provides a menu-driven system for event organizers to manage different types of performers, schedule concerts, handle ticket bookings, perform sound checks, search and update records, and generate revenue and statistical reports.
 
 
 
-The project was developed to demonstrate practical implementation of core \*\*Object-Oriented Programming (OOP)\*\* concepts and Java features such as inheritance, polymorphism, abstraction, encapsulation, collections, custom exception handling, and multithreading.
+The project was developed to demonstrate practical implementation of core **Object-Oriented Programming (OOP)** concepts and Java features such as inheritance, polymorphism, abstraction, encapsulation, collections, custom exception handling, and multithreading.
 
 
 
-\## Features
+**Features**
 
 
 
@@ -56,11 +56,11 @@ The project was developed to demonstrate practical implementation of core \*\*Ob
 
 
 
-\## Java Concepts Demonstrated
+&#x20;**Java Concepts Demonstrated**
 
 
 
-\### Object-Oriented Programming
+Object-Oriented Programming
 
 
 
@@ -68,7 +68,7 @@ The project uses an abstract `Performer` class as the base class for different p
 
 
 
-```text
+
 
 &#x20;               Performer
 
@@ -78,7 +78,7 @@ The project uses an abstract `Performer` class as the base class for different p
 
 &#x20;      SoloArtist   Band   DJ
 
-```
+
 
 
 
@@ -98,15 +98,15 @@ This demonstrates:
 
 
 
-\### Collections
+&#x20;**Collections**
 
 
 
-`ArrayList` is used for dynamic storage and management of performers and concerts.
+*ArrayList* is used for dynamic storage and management of performers and concerts.
 
 
 
-\### Exception Handling
+**Exception Handling**
 
 
 
@@ -114,15 +114,15 @@ Custom exceptions are implemented for application-specific error conditions:
 
 
 
-\* `PerformerNotFoundException`
+*\* PerformerNotFoundException*
 
-\* `ConcertNotFoundException`
+*\* ConcertNotFoundException*
 
-\* `SoldOutException`
+*\* SoldOutException*
 
 
 
-\### Multithreading
+&#x20;**Multithreading**
 
 
 
@@ -130,13 +130,13 @@ The application includes two thread classes:
 
 
 
-\* `SoundCheckThread` — simulates a step-by-step pre-show sound check.
+\* *SoundCheckThread* — simulates a step-by-step pre-show sound check.
 
-\* `TicketBookingThread` — handles the ticket booking process using a separate thread.
+\* *TicketBookingThread* — handles the ticket booking process using a separate thread.
 
 
 
-\## Project Structure
+* **Project Structure**
 
 
 
@@ -196,15 +196,11 @@ MusicProject/
 
 
 
-\## Main Menu
+&#x20;**Main Menu**
 
 
 
 The application provides the following operations:
-
-
-
-```text
 
 1\. Add Performer
 
@@ -230,25 +226,25 @@ The application provides the following operations:
 
 0\. Exit
 
-```
 
 
 
-\## Technologies Used
+
+**Technologies Used**
 
 
 
-\* \*\*Language:\*\* Java
+\* Language: Java
 
-\* \*\*Concepts:\*\* OOP, Collections, Exception Handling, Multithreading
+\* Concepts: OOP, Collections, Exception Handling, Multithreading
 
-\* \*\*Data Structure:\*\* ArrayList
+\* Data Structure: ArrayList
 
-\* \*\*Application Type:\*\* Console-based application
+\* Application Type: Console-based application
 
 
 
-\## Requirements
+**Requirements**
 
 
 
@@ -260,7 +256,9 @@ The application provides the following operations:
 
 
 
-\## How to Run
+**How to Run**
+
+
 
 
 
@@ -270,9 +268,7 @@ The application provides the following operations:
 
 ```bash
 
-git clone https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git
-
-```
+git clone https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git```
 
 
 
@@ -288,11 +284,7 @@ git clone https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git
 
 
 
-```text
-
 MusicConcertMain.java
-
-```
 
 
 
@@ -300,7 +292,7 @@ MusicConcertMain.java
 
 
 
-\## Future Enhancements
+* &#x20;**Future Enhancements**
 
 
 
@@ -320,11 +312,11 @@ Possible future improvements include:
 
 
 
-\## Author
+**Author**
 
 
 
-\*\*Varshini M\*\*
+**Varshini M**
 
 Computer Science \& Engineering
 
