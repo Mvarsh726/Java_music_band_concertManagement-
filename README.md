@@ -260,15 +260,11 @@ The application provides the following operations:
 
 
 
+1.Clone the repository:
 
+&#x20;  ```bash
 
-1\. Clone the repository:
-
-
-
-```bash
-
-git clone https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git```
+&#x20;  git clone \[https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git](https://github.com/Mvarsh726/Java\_music\_band\_concertManagement-.git)
 
 
 
