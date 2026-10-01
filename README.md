@@ -292,7 +292,7 @@ MusicConcertMain.java
 
 
 
-* &#x20;**Future Enhancements**
+**Future Enhancements**
 
 
 
@@ -300,15 +300,15 @@ Possible future improvements include:
 
 
 
-\* File-based data persistence
+\- File-based data persistence
 
-\* Database connectivity
+\- Database connectivity
 
-\* Graphical user interface
+\- Graphical user interface
 
-\* Authentication and user roles
+\- Authentication and user roles
 
-\* Advanced event and financial reporting
+\- Advanced event and financial reporting
 
 
 
@@ -316,7 +316,9 @@ Possible future improvements include:
 
 
 
-**Varshini M**
+Varshini M
+
+
 
 Computer Science \& Engineering
 
